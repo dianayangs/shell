@@ -52,6 +52,9 @@ touch data/inventory.txt
 ls data/processed >> data/inventory.txt
 
 
+#creating new line to save changes - ignore
+#typing to create changes
+
 ###########################################
 
 echo "Project setup is complete!"
