@@ -51,6 +51,9 @@ rm data/raw/*ipaddr*
 touch data/inventory.txt
 find data/processed -type f >> data/inventory.txt
 
+#jsdfsdfsddfs
+#jsdjfskdfs
+
 ###########################################
 
 echo "Project setup is complete!"
